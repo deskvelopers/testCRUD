@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "624600439438",
+    "firebase_url": "https://deskvelopers.firebaseio.com",
+    "project_id": "deskvelopers",
+    "storage_bucket": "deskvelopers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624600439438:android:1401bbe9f2103296",
+        "android_client_info": {
+          "package_name": "com.deskvelopers.ojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624600439438-ugih8ql5esm32ahljvekp532040tfb1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaYAeXr2T5KBwO3CJcd0J1xa4ktbKYy68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

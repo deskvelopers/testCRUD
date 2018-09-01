@@ -1,0 +1,4 @@
+#Sat Sep 01 02:13:17 CLST 2018
+base.0=E\:\\ProjectsAndroid\\CRUD\\FlutterWithFirebase\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
